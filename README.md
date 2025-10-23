@@ -11,7 +11,7 @@ Durante o processo, foram aplicadas técnicas de **tuning de consultas**, **aná
 
 ##  Problema
 
-O desafio consistiu em otimizar consultas cruciais de um sistema e-commerce em uma tabela de alto volume (Pedido ou Produto) com 5.000 registros, visando o menor tempo possível de execução.
+O desafio consistiu em otimizar consultas cruciais de um sistema e-commerce em uma tabela de alto volume Pedido com 5.000 registros, visando o menor tempo possível de execução.
 
 
 ##  Resultados

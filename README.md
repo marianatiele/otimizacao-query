@@ -46,6 +46,6 @@ O estudo reforçou a importância de:
 * Escolher o tipo de índice adequado para cada cenário.
 * Medir o impacto das otimizações com base em métricas reais.
 
-Este projeto consolida conhecimentos fundamentais em **otimização de consultas** e **administração de bancos de dados**, essenciais para a atuação como **DBA Júnior**.
+
 
 
